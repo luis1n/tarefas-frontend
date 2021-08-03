@@ -144,7 +144,7 @@ export default {
       page: 1,
       numberOfPages: 0,
       todos: [],
-      status: ["ABERTA", "EM ANDAMENTO", "CONCLUIDA"],
+      status: ["ABERTA", "EM_ANDAMENTO", "CONCLUIDA"],
       totalTodos: 0,
       options: {},
       editedItem: {
